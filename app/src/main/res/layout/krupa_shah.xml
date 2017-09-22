@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr Krupa Shah"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#040404" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MBBS, MS-Obstetrics and Gynaecology
+Endoscopist"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10 yrs Experience"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rs 400 Consultant fees"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Timings: 11:00AM-06:00PM"
+        android:textSize="15dp"
+        android:textColor="#756d6d"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2nd Floor, Nakshatra Arcade, Opp. Maniprabhu School, IOC Road"
+        android:textSize="15dp"
+        android:textColor="#756d6d"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Track Location"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/track" />
+
+</LinearLayout>

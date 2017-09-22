@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr Vijay Vaghela"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#040404" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BDS, MDS- Orthodontics and Denotofacial Orthopaedics
+Dentist"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="8 yrs Experience"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rs 200 Consultant fees"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Timings: 09:00 AM-01:00 PM | 05:00 PM-09:00PM"
+        android:textSize="15dp"
+        android:textColor="#756d6d"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="#109, 1st Floor, Sopon Complex, New CG Road.
+landmark:Opposite ICICI Bank"
+        android:textSize="15dp"
+        android:textColor="#756d6d"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Track Location"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/track" />
+
+
+</LinearLayout>

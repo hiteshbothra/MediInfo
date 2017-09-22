@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr Vandana Amin"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#040404" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MBBS, DGO and MD-Gynaecology
+Gynecologist/Obstetrician"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="20 yrs Experience"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rs 500 Consultant fees"
+        android:textSize="15dp"
+        android:textColor="#756d6d" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Timings: 10:00 AM-02:00 PM | 06:00 PM-09:00PM"
+        android:textSize="15dp"
+        android:textColor="#756d6d"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Swaminarayan Avenue, B Block, 2ns Floor, Aec Cross Road, 132 Feet Ring Road, Naranpura"
+        android:textSize="15dp"
+        android:textColor="#756d6d"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Track Location"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/track" />
+</LinearLayout>
